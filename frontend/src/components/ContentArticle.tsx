@@ -1,31 +1,17 @@
-import GroupedArticles from '../models/GroupedArticles'
-import { ArticlesEntity } from '../models/MockData'
+import { TreeEntity } from '../models/MockData'
 
 type props = {
-  parent: ArticlesEntity
-  children: ArticlesEntity[]
-  groupedArticles: GroupedArticles
+  article: TreeEntity
 }
 
-const ContentArticle = ({ parent, children, groupedArticles }: props) => (
+const ContentArticle = ({ article }: props) => (
   <>
-    <div className="bg-blue-200 p-4 rounded text-xl" id={parent.number}>
-      <span className="flex flex-row gap-1">
-        <p className="font-bold">{parent.number}</p>
-        <p>{parent.title}</p>
-      </span>
-    </div>
-    {children.map((child) => (
-      <div className="pt-4 rounded" id={child.number}>
-        {groupedArticles[child.number] &&
-          groupedArticles[child.number].length > 0 && (
-            <ContentArticle
-              parent={child}
-              children={groupedArticles[child.number]}
-              groupedArticles={groupedArticles}
-            />
-          )}
-      </div>
+    <article className="mb-4 p-4 bg-blue-200 rounded">
+      {article.number} {article.title}
+    </article>
+
+    {article.children?.map((childArticle) => (
+      <ContentArticle key={childArticle.id} article={childArticle} />
     ))}
   </>
 )

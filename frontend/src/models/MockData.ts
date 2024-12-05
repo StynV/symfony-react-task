@@ -107,10 +107,10 @@ export interface TreeEntity {
   title: string
   type?: string[] | null
   unit?: string[] | null
-  defaulttype?: null
-  defaultunit?: null
+  defaultType?: string | null
+  defaultUnit?: string | null
   id: string
-  parent: number
+  parent: string
   children?: ChildrenEntity[] | null
 }
 
@@ -122,8 +122,8 @@ export interface ChildrenEntity {
   title: string
   type?: string[] | null
   unit?: string[] | null
-  defaulttype?: null
-  defaultunit?: null
+  defaultType?: string | null
+  defaultUnit?: string | null
   id: string
   parent: string
   children?: ChildrenEntity1[] | null
@@ -182,8 +182,8 @@ export interface ChildrenEntity4 {
   title: string
   type?: string[] | null
   unit?: string[] | null
-  defaulttype: string
-  defaultunit: string
+  defaultType?: string | null
+  defaultUnit?: string | null
   id: string
   parent: string
 }
