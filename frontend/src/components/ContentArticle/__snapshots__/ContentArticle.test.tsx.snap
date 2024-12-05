@@ -1,0 +1,2762 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ContentArticle renders correctly based on the JSON data. 1`] = `
+<DocumentFragment>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="0."
+    >
+      0. AANNEMING WERF
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="00."
+    >
+      00. ALGEMENE BEPALINGEN
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="00.10."
+    >
+      00.10. projectgegevens
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="00.20."
+    >
+      00.20. ontwerpteam
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="00.21."
+    >
+      00.21. ontwerpteam - architecturaal ontwerp
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="00.22."
+    >
+      00.22. ontwerpteam - studie stabiliteit
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="00.23."
+    >
+      00.23. ontwerpteam - studie technieken
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="00.24."
+    >
+      00.24. ontwerpteam – veiligheidscoördinatie
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="00.25."
+    >
+      00.25. ontwerpteam – EPB verslaggeving
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="00.30."
+    >
+      00.30. documenten
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="00.31."
+    >
+      00.31. documenten – architectuur
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="00.32."
+    >
+      00.32. documenten – stabiliteit
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="00.33."
+    >
+      00.33. documenten – technieken
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="00.34."
+    >
+      00.34. documenten – veiligheidscoördinatie
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="00.35."
+    >
+      00.35. documenten – EPB verslaggeving
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="00.36."
+    >
+      00.36. documenten – diepsonderingsverslag
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="00.37."
+    >
+      00.37. documenten - verslag milieutechnisch bodemonderzoek
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="01."
+    >
+      01. AANNEMINGSMODALITEITEN
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="01.00."
+    >
+      01.00. aannemingsmodaliteiten - algemeen
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="01.01."
+    >
+      01.01. aannemingsmodaliteiten – bestek
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="01.02."
+    >
+      01.02. aannemingsmodaliteiten – voorafgaand plaatsbezoek
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="01.03."
+    >
+      01.03. aannemingsmodaliteiten – burgerlijke aansprakelijkheid
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="01.04."
+    >
+      01.04. aannemingsmodaliteiten – volledigheid van inschrijving
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="01.05."
+    >
+      01.05. aannemingsmodaliteiten – onderaanneming
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="01.06."
+    >
+      01.06. aannemingsmodaliteiten – verrekeningen
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="01.07."
+    >
+      01.07. aannemingsmodaliteiten – keuringsattesten
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="01.08."
+    >
+      01.08. aannemingsmodaliteiten – materialenlijst
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="01.10."
+    >
+      01.10. plaatsbeschrijvingen – algemeen
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="01.11."
+    >
+      01.11. plaatsbeschrijvingen – aangrenzende constructies
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="01.11.10."
+    >
+      01.11.10. plaatsbeschrijvingen – aangrenzende constructies/bij aanvang van de werken
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="01.11.20."
+    >
+      01.11.20. plaatsbeschrijvingen – aangrenzende constructies/staat van vergelijking
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="01.12."
+    >
+      01.12. plaatsbeschrijvingen – te renoveren constructies
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="01.12.10."
+    >
+      01.12.10. plaatsbeschrijvingen – te renoveren constructies/bij aanvang van de werken
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="01.12.20."
+    >
+      01.12.20. plaatsbeschrijvingen – te renoveren constructies/staat van vergelijking
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="01.13."
+    >
+      01.13. plaatsbeschrijvingen – inboedel bij blijvende bewoning
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="01.13.10."
+    >
+      01.13.10. plaatsbeschrijvingen – inboedel bij blijvende bewoning/bij aanvang van de werken
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="01.13.20."
+    >
+      01.13.20. plaatsbeschrijvingen – inboedel bij blijvende bewoning/staat van vergelijking
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="01.14."
+    >
+      01.14. plaatsbeschrijvingen – wegenis en voetpaden
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="01.14.10."
+    >
+      01.14.10. plaatsbeschrijvingen – wegenis en voetpaden bij aanvang van de werken
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="01.14.20."
+    >
+      01.14.20. plaatsbeschrijvingen – wegenis en voetpaden/staat van vergelijking
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="01.15."
+    >
+      01.15. plaatsbeschrijvingen – beplanting
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="01.15.10."
+    >
+      01.15.10. plaatsbeschrijvingen – beplanting/bij aanvang van de werken
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="01.15.20."
+    >
+      01.15.20. plaatsbeschrijvingen – beplanting/staat van vergelijking
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="01.20."
+    >
+      01.20. werfcoördinatie – algemeen
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="01.21."
+    >
+      01.21. werfcoördinatie – planning van de werken
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="01.22."
+    >
+      01.22. werfcoördinatie – werfleiding en controle
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="01.23."
+    >
+      01.23. werfcoördinatie – werfvergaderingen
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="01.24."
+    >
+      01.24. werfcoördinatie – uitzetten bouwwerken
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="01.25."
+    >
+      01.25. werfcoördinatie – as-built dossier
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="01.26."
+    >
+      01.26. werfcoördinatie – renovaties met blijvende bewoning
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="01.30."
+    >
+      01.30. werfcondities – algemeen
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="01.31."
+    >
+      01.31. werfcondities – orde en netheid
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="01.32."
+    >
+      01.32. werfcondities – geluids- en stofhinder
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="01.33."
+    >
+      01.33. werfcondities – nazorg
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="01.40."
+    >
+      01.40. veiligheidsvoorschriften – algemeen
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="02."
+    >
+      02. BOUWPLAATSVOORZIENINGEN
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="02.00."
+    >
+      02.00. bouwplaatsvoorzieningen - algemeen
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="02.10."
+    >
+      02.10. beschermingswerken – algemeen
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="02.11."
+    >
+      02.11. beschermingswerken – openbare weg
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="02.12."
+    >
+      02.12. beschermingswerken - beplantingen
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="02.12.10."
+    >
+      02.12.10. beschermingswerken – beplantingen/bomen
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="02.12.20."
+    >
+      02.12.20. beschermingswerken – beplantingen/struiken en hagen
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="02.20."
+    >
+      02.20. opruiming beplantingen – algemeen
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="02.21."
+    >
+      02.21. opruiming beplantingen – bomen
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="02.22."
+    >
+      02.22. opruiming beplantingen – struiken en hagen
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="02.30."
+    >
+      02.30. toegangswegen – algemeen
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="02.31."
+    >
+      02.31. toegangswegen – voorlopige verharding voor voetgangers
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="02.32."
+    >
+      02.32. toegangswegen – voorlopige verharding voor zware lasten
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="02.33."
+    >
+      02.33. toegangswegen – parkeerruimte voor laden en lossen
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="02.40."
+    >
+      02.40. voorlopige omheining – algemeen
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="02.50."
+    >
+      02.50. aankondiging werf – algemeen
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="02.51."
+    >
+      02.51. aankondiging werf - werfbord
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="02.52."
+    >
+      02.52. aankondiging werf - werfdoek
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="02.60."
+    >
+      02.60. werflokalen – algemeen
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="02.61."
+    >
+      02.61. werflokalen – berging van materieel en bouwmaterialen
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="02.62."
+    >
+      02.62. werflokalen – kantoorruimte
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="02.63."
+    >
+      02.63. werflokalen – personeelslokaal
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="02.64."
+    >
+      02.64. werflokalen – sanitaire voorzieningen
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="02.70."
+    >
+      02.70. voorlopige aansluitingen – algemeen
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="02.71."
+    >
+      02.71. voorlopige aansluitingen - stroomvoorziening
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="02.72."
+    >
+      02.72. voorlopige aansluitingen - watervoorziening
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="02.73."
+    >
+      02.73. voorlopige aansluitingen - waterafvoer
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="02.80."
+    >
+      02.80. arbeidsmiddelen – algemeen
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="02.81."
+    >
+      02.81. arbeidsmiddelen – werken op hoogte
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="02.81.10."
+    >
+      02.81.10. arbeidsmiddelen – werken op hoogte/ladders
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="02.81.20."
+    >
+      02.81.20. arbeidsmiddelen – werken op hoogte/steigers
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="02.82."
+    >
+      02.82. arbeidsmiddelen – hijsen en heffen van lasten
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03."
+    >
+      03. AFBRAAKWERKEN
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.00."
+    >
+      03.00. afbraakwerken – algemeen
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.01."
+    >
+      03.01. afbraakwerken – asbestverwijdering
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.02."
+    >
+      03.02. afbraakwerken – schoring
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.03."
+    >
+      03.03. afbraakwerken – in bewoonde gebouwen
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.10."
+    >
+      03.10. afbraak volledige constructie – algemeen
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.11."
+    >
+      03.11. afbraak volledige constructie – vrijstaand
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.11.10."
+    >
+      03.11.10. afbraak volledige constructie – vrijstaand/asbestverwijdering
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.11.11."
+    >
+      03.11.11. afbraak volledige constructie – vrijstaand/asbestverwijdering – dakbedekking
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.11.12."
+    >
+      03.11.12. afbraak volledige constructie – vrijstaand/asbestverwijdering – onderdak
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.11.13."
+    >
+      03.11.13. afbraak volledige constructie – vrijstaand/asbestverwijdering – asbestcementbuizen
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.11.14."
+    >
+      03.11.14. afbraak volledige constructie – vrijstaand/asbestverwijdering – vloerafwerking
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.11.15."
+    >
+      03.11.15. afbraak volledige constructie – vrijstaand/asbestverwijdering – plaatmateriaal
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.11.16."
+    >
+      03.11.16. afbraak volledige constructie – vrijstaand/asbestverwijdering – buisisolatie
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.11.17."
+    >
+      03.11.17. afbraak volledige constructie – vrijstaand/asbestverwijdering – asbestkoord
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.11.18."
+    >
+      03.11.18. afbraak volledige constructie – vrijstaand/asbestverwijdering – raam- en deurkitten
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.11.20."
+    >
+      03.11.20. afbraak volledige constructie – vrijstaand/slopen gebouw
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.11.30."
+    >
+      03.11.30. afbraak volledige constructie – vrijstaand/ondergrondse massieven
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.11.40."
+    >
+      03.11.40. afbraak volledige constructie – vrijstaand/te behouden gevels
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.12."
+    >
+      03.12. afbraak volledige constructie – grenzend aan andere gebouwen
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.12.10."
+    >
+      03.12.10. afbraak volledige constructie – grenzend aan andere gebouwen/asbestverwijdering
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.12.11."
+    >
+      03.12.11. afbraak volledige constructie – grenzend aan andere gebouwen/asbestverwijdering – dakbedekking
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.12.12."
+    >
+      03.12.12. afbraak volledige constructie – grenzend aan andere gebouwen/asbestverwijdering – onderdak
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.12.13."
+    >
+      03.12.13. afbraak volledige constructie – grenzend aan andere gebouwen/asbestverwijdering – asbestcementbuizen
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.12.14."
+    >
+      03.12.14. afbraak volledige constructie – grenzend aan andere gebouwen/asbestverwijdering – vloerafwerking
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.12.15."
+    >
+      03.12.15. afbraak volledige constructie – grenzend aan andere gebouwen/asbestverwijdering – plaatmateriaal
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.12.16."
+    >
+      03.12.16. afbraak volledige constructie – grenzend aan andere gebouwen/asbestverwijdering – buisisolatie
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.12.17."
+    >
+      03.12.17. afbraak volledige constructie – grenzend aan andere gebouwen/asbestverwijdering – asbestkoord
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.12.18."
+    >
+      03.12.18. afbraak volledige constructie – grenzend aan andere gebouwen/asbestverwijdering – raam- en deurkitten
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.12.20."
+    >
+      03.12.20. afbraak volledige constructie – grenzend aan andere gebouwen/slopen gebouw
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.12.30."
+    >
+      03.12.30. afbraak volledige constructie – grenzend aan andere gebouwen/ondergrondse massieven
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.12.40."
+    >
+      03.12.40. afbraak volledige constructie – grenzend aan andere gebouwen/te behouden gevels
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.20."
+    >
+      03.20. afbraak ruwbouwelementen - algemeen
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.21."
+    >
+      03.21. afbraak ruwbouwelementen – muren
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.21.10."
+    >
+      03.21.10. afbraak ruwbouwelementen – muren/metselwerk
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.21.20."
+    >
+      03.21.20. afbraak ruwbouwelementen – muren/beton
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.21.30."
+    >
+      03.21.30. afbraak ruwbouwelementen – muren/houtskelet
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.22."
+    >
+      03.22. afbraak ruwbouwelementen – vloeren
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.22.10."
+    >
+      03.22.10. afbraak ruwbouwelementen – vloeren/potten en balken
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.22.20."
+    >
+      03.22.20. afbraak ruwbouwelementen – vloeren/beton
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.22.21."
+    >
+      03.22.21. afbraak ruwbouwelementen – vloeren/beton – verdiepingsvloer
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.22.22."
+    >
+      03.22.22. afbraak ruwbouwelementen – vloeren/beton – vloer op volle grond
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.22.30."
+    >
+      03.22.30. afbraak ruwbouwelementen – vloeren/houten roostering
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.30."
+    >
+      03.30. afbraak dakelementen – algemeen
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.31."
+    >
+      03.31. afbraak dakelementen – hellend dak
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.31.10."
+    >
+      03.31.10. afbraak dakelementen – hellend dak/asbestverwijdering
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.31.11."
+    >
+      03.31.11. afbraak dakelementen – hellend dak/asbestverwijdering – dakbedekking
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.31.12."
+    >
+      03.31.12. afbraak dakelementen – hellend dak/asbestverwijdering – onderdak
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.31.13."
+    >
+      03.31.13. afbraak dakelementen – hellend dak/asbestverwijdering – asbestcement
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.31.20."
+    >
+      03.31.20. afbraak dakelementen – hellend dak/volledige dakopbouw
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.31.30."
+    >
+      03.31.30. afbraak dakelementen – hellend dak/dakbedekking
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.31.40."
+    >
+      03.31.40. afbraak dakelementen – hellend dak/dakisolatie
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.31.50."
+    >
+      03.31.50. afbraak dakelementen – hellend dak/daklichtelementen
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.31.60."
+    >
+      03.31.60. afbraak dakelementen – hellend dak/dakdoorvoeren en schouwen
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.32."
+    >
+      03.32. afbraak dakelementen – plat dak
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.32.10."
+    >
+      03.32.10. afbraak dakelementen – plat dak/asbestverwijdering
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.32.11."
+    >
+      03.32.11. afbraak dakelementen – plat/asbestverwijdering – asbestcement
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.32.20."
+    >
+      03.32.20. afbraak dakelementen – plat dak/volledige dakopbouw
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.32.30."
+    >
+      03.32.30. afbraak dakelementen – plat dak/dakdichting
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.32.40."
+    >
+      03.32.40. afbraak dakelementen – plat dak/dakisolatie
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.32.50."
+    >
+      03.32.50. afbraak dakelementen – plat dak/daklichtelementen
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.32.60."
+    >
+      03.32.60. afbraak dakelementen – plat dak/dakdoorvoeren
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.40."
+    >
+      03.40. afbraak gevelelementen – algemeen
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.41."
+    >
+      03.41. afbraak gevelelementen – gevelmetselwerk
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.42."
+    >
+      03.42. afbraak gevelelementen – leien
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.42.10."
+    >
+      03.42.10. afbraak gevelelementen – leien/asbesthoudend
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.42.20."
+    >
+      03.42.20. afbraak gevelelementen – leien/niet-asbesthoudend
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.43."
+    >
+      03.43. afbraak gevelelementen – beplating
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.44."
+    >
+      03.44. afbraak gevelelementen – buitenschrijnwerk
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.44.10."
+    >
+      03.44.10. afbraak gevelelementen – buitenschrijnwerk/asbestverwijdering
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.44.11."
+    >
+      03.44.11. afbraak gevelelementen – buitenschrijnwerk/asbestverwijdering – kitten
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.44.20."
+    >
+      03.44.20. afbraak gevelelementen – buitenschrijnwerk/ramen, deuren en poorten
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.45."
+    >
+      03.45. afbraak gevelelementen – buitentrappen
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.46."
+    >
+      03.46. afbraak gevelelementen – balustraden
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.50."
+    >
+      03.50. afbraak binnenafwerking - algemeen
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.51."
+    >
+      03.51. afbraak binnenafwerking – volledige ontmanteling
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.52."
+    >
+      03.52. afbraak binnenafwerking - afkappen pleisterwerk
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.53."
+    >
+      03.53. afbraak binnenafwerking - plaatafwerking
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.53.10."
+    >
+      03.53.10. afbraak binnenafwerking – plaatafwerking/asbestverwijdering
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.53.20."
+    >
+      03.53.20. afbraak binnenafwerking – plaatafwerking/lichte scheidingswanden
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.53.30."
+    >
+      03.53.30. afbraak binnenafwerking – plaatafwerking/plafondafwerking
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.53.40."
+    >
+      03.53.40. afbraak binnenafwerking – plaatafwerking/uitbekleding wanden
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.54."
+    >
+      03.54. afbraak binnenafwerking – dekvloer
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.54.10."
+    >
+      03.54.10. afbraak binnenafwerking – dekvloer/asbestverwijdering
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.54.20."
+    >
+      03.54.20. afbraak binnenafwerking – dekvloer/tot op draagstructuur
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.55."
+    >
+      03.55. afbraak binnenafwerking - vloerafwerking
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.55.10."
+    >
+      03.55.10. afbraak binnenafwerking – vloerafwerking/asbestverwijdering
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.55.20."
+    >
+      03.55.20. afbraak binnenafwerking – vloerafwerking/linoleum
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.55.30."
+    >
+      03.55.30. afbraak binnenafwerking – vloerafwerking/tegels
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.55.31."
+    >
+      03.55.31. afbraak binnenafwerking – vloerafwerking/tegels – op dekvloer
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.55.32."
+    >
+      03.55.32. afbraak binnenafwerking – vloerafwerking/tegels – op zandbed
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.55.40."
+    >
+      03.55.40. afbraak binnenafwerking – vloerafwerking/houten vloer
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.56."
+    >
+      03.56. afbraak binnenafwerking - binnendeuren
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.57."
+    >
+      03.57. afbraak binnenafwerking - trappen en leuningen
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.58."
+    >
+      03.58. afbraak binnenafwerking – vast meubilair
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.58.10."
+    >
+      03.58.10. afbraak binnenafwerking – vast meubilair/keukenmeubilair
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.58.20."
+    >
+      03.58.20. afbraak binnenafwerking – vast meubilair/badkamermeubilair
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.60."
+    >
+      03.60. afbraak technieken fluïda - algemeen
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.61."
+    >
+      03.61. afbraak technieken fluïda – leidingen
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.61.10."
+    >
+      03.61.10. afbraak technieken fluïda – leidingen/asbestverwijdering
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.61.11."
+    >
+      03.61.11. afbraak technieken fluïda – leidingen/asbestverwijdering – asbestcement
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.61.12."
+    >
+      03.61.12. afbraak technieken fluïda – leidingen/asbestverwijdering – leidingisolatie
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.61.20."
+    >
+      03.61.20. afbraak technieken fluïda – leidingen/toevoer en afvoerleidingen
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.62."
+    >
+      03.62. afbraak technieken fluïda - sanitaire toestellen
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.63."
+    >
+      03.63. afbraak technieken fluïda – radiatoren & toebehoren
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.64."
+    >
+      03.64. afbraak technieken fluïda – gasleidingen & toebehoren
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.65."
+    >
+      03.65. afbraak technieken fluïda – CV-ketel & toebehoren
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.70."
+    >
+      03.70. afbraak technieken elektro - algemeen
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="03.71."
+    >
+      03.71. afbraak technieken elektro - leidingnet
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="04."
+    >
+      04. GEBOUWPRESTATIES
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="04.00."
+    >
+      04.00. gebouwprestaties - algemeen
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="04.10."
+    >
+      04.10. energieprestatie en binnenklimaat (EPB) – algemeen
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="04.20."
+    >
+      04.20. luchtdichtheid - algemeen
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="04.30."
+    >
+      04.30. akoestiek - algemeen
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="04.40."
+    >
+      04.40. brandveiligheid - algemeen
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="05."
+    >
+      05. PROEVEN
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="05.00."
+    >
+      05.00. proeven - algemeen
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="05.10."
+    >
+      05.10. proeven - luchtdichtheidsmeting
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="05.11."
+    >
+      05.11. proeven – luchtdichtheidsmeting / wooneenheid
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="05.12."
+    >
+      05.12. proeven – luchtdichtheidsmeting / gebouw
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="05.20."
+    >
+      05.20. proeven – akoestiek
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="05.21."
+    >
+      05.21. proeven – akoestiek / luchtgeluidiolatie
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="05.22."
+    >
+      05.22. proeven – akoestiek / contactgeluidiolatie
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="05.23."
+    >
+      05.23. proeven – akoestiek / geluidisolatie van de gevel
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+  <article
+    class="mb-2"
+  >
+    <article
+      class="mb-4 p-4 bg-blue-200 rounded"
+      id="05.24."
+    >
+      05.24. proeven – akoestiek / geluid van technische installaties
+    </article>
+    <p>
+      content
+    </p>
+  </article>
+</DocumentFragment>
+`;

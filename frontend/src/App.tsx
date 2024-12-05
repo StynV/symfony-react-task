@@ -1,7 +1,8 @@
 import { useEffect, useState } from 'react'
+import React from 'react'
 
 import fetchMockData from './api/fetchMockData'
-import ContentArticle from './components/ContentArticle'
+import ContentArticle from './components/ContentArticle/ContentArticle'
 import NavArticle from './components/NavArticle'
 import { MockData } from './models/MockData'
 

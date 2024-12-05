@@ -100,17 +100,17 @@ export interface ArticlesEntity {
 }
 
 export interface TreeEntity {
-  value: number
-  article_id: number
-  number: string
-  section: string
-  title: string
+  value?: number
+  article_id?: number
+  number?: string
+  section?: string
+  title?: string
   type?: string[] | null
   unit?: string[] | null
   defaultType?: string | null
   defaultUnit?: string | null
-  id: string
-  parent: string
+  id: string | number
+  parent?: string | number
   children?: ChildrenEntity[] | null
 }
 
