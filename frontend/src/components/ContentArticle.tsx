@@ -6,7 +6,7 @@ type props = {
 
 const ContentArticle = ({ article }: props) => (
   <>
-    <article className="mb-4 p-4 bg-blue-200 rounded">
+    <article className="mb-4 p-4 bg-blue-200 rounded" id={article.number}>
       {article.number} {article.title}
     </article>
 
