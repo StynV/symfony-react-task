@@ -45,6 +45,7 @@ export default tseslint.config(
           singleQuote: true,
           trailingComma: 'es5',
           endOfLine: 'auto',
+          semi: false,
         },
       ],
 
@@ -55,6 +56,7 @@ export default tseslint.config(
 
       // Additional single-quote enforcement
       quotes: ['error', 'single'],
+      semi: ['error', 'never'],
     },
   },
 );
