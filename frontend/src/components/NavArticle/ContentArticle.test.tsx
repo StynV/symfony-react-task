@@ -1,4 +1,4 @@
-import { render, within } from '@testing-library/react'
+import { render } from '@testing-library/react'
 
 import data from '../../mocks/project.json'
 import NavArticle from './NavArticle'
