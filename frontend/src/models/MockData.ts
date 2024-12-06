@@ -110,7 +110,7 @@ export interface TreeEntity {
   defaultType?: string | null
   defaultUnit?: string | null
   id: string
-  parent: string
+  parent: string | number
   children?: ChildrenEntity[] | null
 }
 
