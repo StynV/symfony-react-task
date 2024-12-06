@@ -1,0 +1,6154 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NavArticle renders correctly based on the JSON data. 1`] = `
+<DocumentFragment>
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      0. AANNEMING WERF
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      00. ALGEMENE BEPALINGEN
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      00.10. projectgegevens
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      00.20. ontwerpteam
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      00.21. ontwerpteam - architecturaal ontwerp
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      00.22. ontwerpteam - studie stabiliteit
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      00.23. ontwerpteam - studie technieken
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      00.24. ontwerpteam – veiligheidscoördinatie
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      00.25. ontwerpteam – EPB verslaggeving
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      00.30. documenten
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      00.31. documenten – architectuur
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      00.32. documenten – stabiliteit
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      00.33. documenten – technieken
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      00.34. documenten – veiligheidscoördinatie
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      00.35. documenten – EPB verslaggeving
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      00.36. documenten – diepsonderingsverslag
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      00.37. documenten - verslag milieutechnisch bodemonderzoek
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      01. AANNEMINGSMODALITEITEN
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      01.00. aannemingsmodaliteiten - algemeen
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      01.01. aannemingsmodaliteiten – bestek
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      01.02. aannemingsmodaliteiten – voorafgaand plaatsbezoek
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      01.03. aannemingsmodaliteiten – burgerlijke aansprakelijkheid
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      01.04. aannemingsmodaliteiten – volledigheid van inschrijving
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      01.05. aannemingsmodaliteiten – onderaanneming
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      01.06. aannemingsmodaliteiten – verrekeningen
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      01.07. aannemingsmodaliteiten – keuringsattesten
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      01.08. aannemingsmodaliteiten – materialenlijst
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      01.10. plaatsbeschrijvingen – algemeen
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      01.11. plaatsbeschrijvingen – aangrenzende constructies
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      01.11.10. plaatsbeschrijvingen – aangrenzende constructies/bij aanvang van de werken
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      01.11.20. plaatsbeschrijvingen – aangrenzende constructies/staat van vergelijking
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      01.12. plaatsbeschrijvingen – te renoveren constructies
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      01.12.10. plaatsbeschrijvingen – te renoveren constructies/bij aanvang van de werken
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      01.12.20. plaatsbeschrijvingen – te renoveren constructies/staat van vergelijking
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      01.13. plaatsbeschrijvingen – inboedel bij blijvende bewoning
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      01.13.10. plaatsbeschrijvingen – inboedel bij blijvende bewoning/bij aanvang van de werken
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      01.13.20. plaatsbeschrijvingen – inboedel bij blijvende bewoning/staat van vergelijking
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      01.14. plaatsbeschrijvingen – wegenis en voetpaden
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      01.14.10. plaatsbeschrijvingen – wegenis en voetpaden bij aanvang van de werken
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      01.14.20. plaatsbeschrijvingen – wegenis en voetpaden/staat van vergelijking
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      01.15. plaatsbeschrijvingen – beplanting
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      01.15.10. plaatsbeschrijvingen – beplanting/bij aanvang van de werken
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      01.15.20. plaatsbeschrijvingen – beplanting/staat van vergelijking
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      01.20. werfcoördinatie – algemeen
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      01.21. werfcoördinatie – planning van de werken
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      01.22. werfcoördinatie – werfleiding en controle
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      01.23. werfcoördinatie – werfvergaderingen
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      01.24. werfcoördinatie – uitzetten bouwwerken
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      01.25. werfcoördinatie – as-built dossier
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      01.26. werfcoördinatie – renovaties met blijvende bewoning
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      01.30. werfcondities – algemeen
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      01.31. werfcondities – orde en netheid
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      01.32. werfcondities – geluids- en stofhinder
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      01.33. werfcondities – nazorg
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      01.40. veiligheidsvoorschriften – algemeen
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      02. BOUWPLAATSVOORZIENINGEN
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      02.00. bouwplaatsvoorzieningen - algemeen
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      02.10. beschermingswerken – algemeen
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      02.11. beschermingswerken – openbare weg
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      02.12. beschermingswerken - beplantingen
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      02.12.10. beschermingswerken – beplantingen/bomen
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      02.12.20. beschermingswerken – beplantingen/struiken en hagen
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      02.20. opruiming beplantingen – algemeen
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      02.21. opruiming beplantingen – bomen
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      02.22. opruiming beplantingen – struiken en hagen
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      02.30. toegangswegen – algemeen
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      02.31. toegangswegen – voorlopige verharding voor voetgangers
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      02.32. toegangswegen – voorlopige verharding voor zware lasten
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      02.33. toegangswegen – parkeerruimte voor laden en lossen
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      02.40. voorlopige omheining – algemeen
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      02.50. aankondiging werf – algemeen
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      02.51. aankondiging werf - werfbord
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      02.52. aankondiging werf - werfdoek
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      02.60. werflokalen – algemeen
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      02.61. werflokalen – berging van materieel en bouwmaterialen
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      02.62. werflokalen – kantoorruimte
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      02.63. werflokalen – personeelslokaal
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      02.64. werflokalen – sanitaire voorzieningen
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      02.70. voorlopige aansluitingen – algemeen
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      02.71. voorlopige aansluitingen - stroomvoorziening
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      02.72. voorlopige aansluitingen - watervoorziening
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      02.73. voorlopige aansluitingen - waterafvoer
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      02.80. arbeidsmiddelen – algemeen
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      02.81. arbeidsmiddelen – werken op hoogte
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      02.81.10. arbeidsmiddelen – werken op hoogte/ladders
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      02.81.20. arbeidsmiddelen – werken op hoogte/steigers
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      02.82. arbeidsmiddelen – hijsen en heffen van lasten
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03. AFBRAAKWERKEN
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.00. afbraakwerken – algemeen
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.01. afbraakwerken – asbestverwijdering
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.02. afbraakwerken – schoring
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.03. afbraakwerken – in bewoonde gebouwen
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.10. afbraak volledige constructie – algemeen
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.11. afbraak volledige constructie – vrijstaand
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.11.10. afbraak volledige constructie – vrijstaand/asbestverwijdering
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.11.11. afbraak volledige constructie – vrijstaand/asbestverwijdering – dakbedekking
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.11.12. afbraak volledige constructie – vrijstaand/asbestverwijdering – onderdak
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.11.13. afbraak volledige constructie – vrijstaand/asbestverwijdering – asbestcementbuizen
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.11.14. afbraak volledige constructie – vrijstaand/asbestverwijdering – vloerafwerking
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.11.15. afbraak volledige constructie – vrijstaand/asbestverwijdering – plaatmateriaal
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.11.16. afbraak volledige constructie – vrijstaand/asbestverwijdering – buisisolatie
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.11.17. afbraak volledige constructie – vrijstaand/asbestverwijdering – asbestkoord
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.11.18. afbraak volledige constructie – vrijstaand/asbestverwijdering – raam- en deurkitten
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.11.20. afbraak volledige constructie – vrijstaand/slopen gebouw
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.11.30. afbraak volledige constructie – vrijstaand/ondergrondse massieven
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.11.40. afbraak volledige constructie – vrijstaand/te behouden gevels
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.12. afbraak volledige constructie – grenzend aan andere gebouwen
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.12.10. afbraak volledige constructie – grenzend aan andere gebouwen/asbestverwijdering
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.12.11. afbraak volledige constructie – grenzend aan andere gebouwen/asbestverwijdering – dakbedekking
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.12.12. afbraak volledige constructie – grenzend aan andere gebouwen/asbestverwijdering – onderdak
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.12.13. afbraak volledige constructie – grenzend aan andere gebouwen/asbestverwijdering – asbestcementbuizen
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.12.14. afbraak volledige constructie – grenzend aan andere gebouwen/asbestverwijdering – vloerafwerking
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.12.15. afbraak volledige constructie – grenzend aan andere gebouwen/asbestverwijdering – plaatmateriaal
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.12.16. afbraak volledige constructie – grenzend aan andere gebouwen/asbestverwijdering – buisisolatie
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.12.17. afbraak volledige constructie – grenzend aan andere gebouwen/asbestverwijdering – asbestkoord
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.12.18. afbraak volledige constructie – grenzend aan andere gebouwen/asbestverwijdering – raam- en deurkitten
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.12.20. afbraak volledige constructie – grenzend aan andere gebouwen/slopen gebouw
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.12.30. afbraak volledige constructie – grenzend aan andere gebouwen/ondergrondse massieven
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.12.40. afbraak volledige constructie – grenzend aan andere gebouwen/te behouden gevels
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.20. afbraak ruwbouwelementen - algemeen
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.21. afbraak ruwbouwelementen – muren
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.21.10. afbraak ruwbouwelementen – muren/metselwerk
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.21.20. afbraak ruwbouwelementen – muren/beton
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.21.30. afbraak ruwbouwelementen – muren/houtskelet
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.22. afbraak ruwbouwelementen – vloeren
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.22.10. afbraak ruwbouwelementen – vloeren/potten en balken
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.22.20. afbraak ruwbouwelementen – vloeren/beton
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.22.21. afbraak ruwbouwelementen – vloeren/beton – verdiepingsvloer
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.22.22. afbraak ruwbouwelementen – vloeren/beton – vloer op volle grond
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.22.30. afbraak ruwbouwelementen – vloeren/houten roostering
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.30. afbraak dakelementen – algemeen
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.31. afbraak dakelementen – hellend dak
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.31.10. afbraak dakelementen – hellend dak/asbestverwijdering
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.31.11. afbraak dakelementen – hellend dak/asbestverwijdering – dakbedekking
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.31.12. afbraak dakelementen – hellend dak/asbestverwijdering – onderdak
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.31.13. afbraak dakelementen – hellend dak/asbestverwijdering – asbestcement
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.31.20. afbraak dakelementen – hellend dak/volledige dakopbouw
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.31.30. afbraak dakelementen – hellend dak/dakbedekking
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.31.40. afbraak dakelementen – hellend dak/dakisolatie
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.31.50. afbraak dakelementen – hellend dak/daklichtelementen
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.31.60. afbraak dakelementen – hellend dak/dakdoorvoeren en schouwen
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.32. afbraak dakelementen – plat dak
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.32.10. afbraak dakelementen – plat dak/asbestverwijdering
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.32.11. afbraak dakelementen – plat/asbestverwijdering – asbestcement
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.32.20. afbraak dakelementen – plat dak/volledige dakopbouw
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.32.30. afbraak dakelementen – plat dak/dakdichting
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.32.40. afbraak dakelementen – plat dak/dakisolatie
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.32.50. afbraak dakelementen – plat dak/daklichtelementen
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.32.60. afbraak dakelementen – plat dak/dakdoorvoeren
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.40. afbraak gevelelementen – algemeen
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.41. afbraak gevelelementen – gevelmetselwerk
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.42. afbraak gevelelementen – leien
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.42.10. afbraak gevelelementen – leien/asbesthoudend
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.42.20. afbraak gevelelementen – leien/niet-asbesthoudend
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.43. afbraak gevelelementen – beplating
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.44. afbraak gevelelementen – buitenschrijnwerk
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.44.10. afbraak gevelelementen – buitenschrijnwerk/asbestverwijdering
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.44.11. afbraak gevelelementen – buitenschrijnwerk/asbestverwijdering – kitten
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.44.20. afbraak gevelelementen – buitenschrijnwerk/ramen, deuren en poorten
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.45. afbraak gevelelementen – buitentrappen
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.46. afbraak gevelelementen – balustraden
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.50. afbraak binnenafwerking - algemeen
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.51. afbraak binnenafwerking – volledige ontmanteling
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.52. afbraak binnenafwerking - afkappen pleisterwerk
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.53. afbraak binnenafwerking - plaatafwerking
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.53.10. afbraak binnenafwerking – plaatafwerking/asbestverwijdering
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.53.20. afbraak binnenafwerking – plaatafwerking/lichte scheidingswanden
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.53.30. afbraak binnenafwerking – plaatafwerking/plafondafwerking
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.53.40. afbraak binnenafwerking – plaatafwerking/uitbekleding wanden
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.54. afbraak binnenafwerking – dekvloer
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.54.10. afbraak binnenafwerking – dekvloer/asbestverwijdering
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.54.20. afbraak binnenafwerking – dekvloer/tot op draagstructuur
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.55. afbraak binnenafwerking - vloerafwerking
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.55.10. afbraak binnenafwerking – vloerafwerking/asbestverwijdering
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.55.20. afbraak binnenafwerking – vloerafwerking/linoleum
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.55.30. afbraak binnenafwerking – vloerafwerking/tegels
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.55.31. afbraak binnenafwerking – vloerafwerking/tegels – op dekvloer
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.55.32. afbraak binnenafwerking – vloerafwerking/tegels – op zandbed
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.55.40. afbraak binnenafwerking – vloerafwerking/houten vloer
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.56. afbraak binnenafwerking - binnendeuren
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.57. afbraak binnenafwerking - trappen en leuningen
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.58. afbraak binnenafwerking – vast meubilair
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.58.10. afbraak binnenafwerking – vast meubilair/keukenmeubilair
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.58.20. afbraak binnenafwerking – vast meubilair/badkamermeubilair
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.60. afbraak technieken fluïda - algemeen
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.61. afbraak technieken fluïda – leidingen
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.61.10. afbraak technieken fluïda – leidingen/asbestverwijdering
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.61.11. afbraak technieken fluïda – leidingen/asbestverwijdering – asbestcement
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.61.12. afbraak technieken fluïda – leidingen/asbestverwijdering – leidingisolatie
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.61.20. afbraak technieken fluïda – leidingen/toevoer en afvoerleidingen
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.62. afbraak technieken fluïda - sanitaire toestellen
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.63. afbraak technieken fluïda – radiatoren & toebehoren
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.64. afbraak technieken fluïda – gasleidingen & toebehoren
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.65. afbraak technieken fluïda – CV-ketel & toebehoren
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.70. afbraak technieken elektro - algemeen
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      03.71. afbraak technieken elektro - leidingnet
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      04. GEBOUWPRESTATIES
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      04.00. gebouwprestaties - algemeen
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      04.10. energieprestatie en binnenklimaat (EPB) – algemeen
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      04.20. luchtdichtheid - algemeen
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      04.30. akoestiek - algemeen
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      04.40. brandveiligheid - algemeen
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      05. PROEVEN
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      05.00. proeven - algemeen
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      05.10. proeven - luchtdichtheidsmeting
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      05.11. proeven – luchtdichtheidsmeting / wooneenheid
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      05.12. proeven – luchtdichtheidsmeting / gebouw
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      05.20. proeven – akoestiek
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      05.21. proeven – akoestiek / luchtgeluidiolatie
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      05.22. proeven – akoestiek / contactgeluidiolatie
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      05.23. proeven – akoestiek / geluidisolatie van de gevel
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+  <li
+    class="pl-4 py-2 flex flex-row relative group cursor-pointer"
+  >
+    <svg
+      class="w-5 h-5 mr-2 transform transition-transform rotate-90"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M9 5l7 7-7 7"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+      />
+    </svg>
+    <p>
+      05.24. proeven – akoestiek / geluid van technische installaties
+    </p>
+    <button
+      class="ml-auto bg-gray-200 p-1 rounded opacity-0 group-hover:opacity-100"
+    >
+      Ga naar →
+    </button>
+  </li>
+  <li
+    class="pl-4 cursor-pointer"
+  />
+</DocumentFragment>
+`;

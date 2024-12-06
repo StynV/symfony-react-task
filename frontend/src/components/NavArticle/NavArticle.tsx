@@ -1,6 +1,6 @@
 import { useState } from 'react'
 
-import { TreeEntity } from '../models/MockData'
+import { TreeEntity } from '../../models/MockData'
 
 type props = {
   article: TreeEntity

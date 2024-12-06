@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react'
 
 import fetchMockData from './api/fetchMockData'
 import ContentArticle from './components/ContentArticle/ContentArticle'
-import NavArticle from './components/NavArticle'
+import NavArticle from './components/NavArticle/NavArticle'
 import { MockData } from './models/MockData'
 
 function App() {
